@@ -1,0 +1,4271 @@
+[
+  {
+    "uid": 223,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 41.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 16
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.6666667,
+                "y": 1.0
+              },
+              {
+                "x": 0.6666667,
+                "y": 0.5
+              },
+              {
+                "x": 0.6333333,
+                "y": 0.5
+              },
+              {
+                "x": 0.6333333,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 17
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 224,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 46.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 18
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.26666668,
+                "y": 1.0
+              },
+              {
+                "x": 0.26666668,
+                "y": 0.5
+              },
+              {
+                "x": 0.23333333,
+                "y": 0.5
+              },
+              {
+                "x": 0.23333333,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 19
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 225,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 51.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 20
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.033333335,
+                "y": 1.0
+              },
+              {
+                "x": 0.033333335,
+                "y": 0.5
+              },
+              {
+                "x": 0.0,
+                "y": 0.5
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 21
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 226,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 56.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 22
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.46666667,
+                "y": 1.0
+              },
+              {
+                "x": 0.46666667,
+                "y": 0.5
+              },
+              {
+                "x": 0.43333334,
+                "y": 0.5
+              },
+              {
+                "x": 0.43333334,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 23
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 227,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 61.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 24
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.36666667,
+                "y": 1.0
+              },
+              {
+                "x": 0.36666667,
+                "y": 0.5
+              },
+              {
+                "x": 0.33333334,
+                "y": 0.5
+              },
+              {
+                "x": 0.33333334,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 25
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 228,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 71.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 26
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.2,
+                "y": 1.0
+              },
+              {
+                "x": 0.2,
+                "y": 0.5
+              },
+              {
+                "x": 0.16666667,
+                "y": 0.5
+              },
+              {
+                "x": 0.16666667,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 27
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 229,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 76.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 28
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.5,
+                "y": 1.0
+              },
+              {
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "x": 0.46666667,
+                "y": 0.5
+              },
+              {
+                "x": 0.46666667,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 29
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 230,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 81.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 30
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.6,
+                "y": 1.0
+              },
+              {
+                "x": 0.6,
+                "y": 0.5
+              },
+              {
+                "x": 0.56666666,
+                "y": 0.5
+              },
+              {
+                "x": 0.56666666,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 31
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 231,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 90.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 32
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.53333336,
+                "y": 1.0
+              },
+              {
+                "x": 0.53333336,
+                "y": 0.5
+              },
+              {
+                "x": 0.5,
+                "y": 0.5
+              },
+              {
+                "x": 0.5,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 33
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 232,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 95.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 34
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.4,
+                "y": 1.0
+              },
+              {
+                "x": 0.4,
+                "y": 0.5
+              },
+              {
+                "x": 0.36666667,
+                "y": 0.5
+              },
+              {
+                "x": 0.36666667,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 35
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 233,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 100.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 36
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.033333335,
+                "y": 1.0
+              },
+              {
+                "x": 0.033333335,
+                "y": 0.5
+              },
+              {
+                "x": 0.0,
+                "y": 0.5
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 37
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 234,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 105.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 38
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.8333333,
+                "y": 1.0
+              },
+              {
+                "x": 0.8333333,
+                "y": 0.5
+              },
+              {
+                "x": 0.8,
+                "y": 0.5
+              },
+              {
+                "x": 0.8,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 39
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 235,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 110.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 40
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.3,
+                "y": 1.0
+              },
+              {
+                "x": 0.3,
+                "y": 0.5
+              },
+              {
+                "x": 0.26666668,
+                "y": 0.5
+              },
+              {
+                "x": 0.26666668,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 41
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 236,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 115.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 42
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.46666667,
+                "y": 1.0
+              },
+              {
+                "x": 0.46666667,
+                "y": 0.5
+              },
+              {
+                "x": 0.43333334,
+                "y": 0.5
+              },
+              {
+                "x": 0.43333334,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 43
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 237,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 120.0,
+            "y": 68.0
+          },
+          "scale": {
+            "x": 4.0,
+            "y": 6.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 44
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 4.0,
+            "height": 6.0,
+            "texture": {
+              "filepath": "assets/fontfix.png",
+              "width": 120,
+              "height": 12
+            },
+            "texCoords": [
+              {
+                "x": 0.23333333,
+                "y": 1.0
+              },
+              {
+                "x": 0.23333333,
+                "y": 0.5
+              },
+              {
+                "x": 0.2,
+                "y": 0.5
+              },
+              {
+                "x": 0.2,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 45
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 238,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 24.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 46
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 47
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 239,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 24.0,
+            "y": 36.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 48
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 49
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 240,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 24.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 48
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 49
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 241,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 24.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 50
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 51
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 242,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 40.0,
+            "y": 36.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 54
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 55
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 243,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 40.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 56
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 57
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 244,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 32.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 58
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.8
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 59
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 245,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 32.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 58
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.8
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 59
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 246,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 56.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 60
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 61
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 247,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 56.0,
+            "y": 36.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 62
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 63
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 248,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 56.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 64
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 65
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 249,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 56.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 66
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 67
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 250,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 64.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 68
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 69
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 251,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 72.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 70
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.46153846,
+                "y": 1.0
+              },
+              {
+                "x": 0.46153846,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 71
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 252,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 64.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 74
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 75
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 253,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 72.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 76
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.46153846,
+                "y": 1.0
+              },
+              {
+                "x": 0.46153846,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 77
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 254,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 72.0,
+            "y": 36.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 78
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 79
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 255,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 72.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 80
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 81
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 256,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 88.0,
+            "y": 36.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 84
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 85
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 257,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 88.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 86
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 87
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 258,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 88.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 88
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 89
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 259,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 96.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 90
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 91
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 260,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 104.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 92
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.46153846,
+                "y": 1.0
+              },
+              {
+                "x": 0.46153846,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 93
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 261,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 104.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 94
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.8
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 95
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 262,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 96.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 98
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 99
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 263,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 104.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 100
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.46153846,
+                "y": 1.0
+              },
+              {
+                "x": 0.46153846,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 101
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 264,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 120.0,
+            "y": 36.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 62
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 63
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 265,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 128.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 74
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 75
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 266,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 120.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 64
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 65
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 267,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 136.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 76
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.46153846,
+                "y": 1.0
+              },
+              {
+                "x": 0.46153846,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 77
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 268,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 120.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 66
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 0.9
+              },
+              {
+                "x": 0.23076923,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 67
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 269,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 136.0,
+            "y": 36.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 78
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 79
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 270,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 128.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 68
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              },
+              {
+                "x": 0.30769232,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 69
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 271,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 136.0,
+            "y": 28.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 80
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.7
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.6
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.7
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 81
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 272,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 136.0,
+            "y": 20.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 70
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.46153846,
+                "y": 1.0
+              },
+              {
+                "x": 0.46153846,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 71
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 273,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 120.0,
+            "y": 44.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 60
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.3846154,
+                "y": 0.9
+              },
+              {
+                "x": 0.3846154,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.8
+              },
+              {
+                "x": 0.30769232,
+                "y": 0.9
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 61
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 274,
+    "name": "Player",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 60.0,
+            "y": 52.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 102
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+              "width": 80,
+              "height": 104
+            },
+            "texCoords": [
+              {
+                "x": 0.1,
+                "y": 1.0
+              },
+              {
+                "x": 0.1,
+                "y": 0.9230769
+              },
+              {
+                "x": 0.0,
+                "y": 0.9230769
+              },
+              {
+                "x": 0.0,
+                "y": 1.0
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 103
+        }
+      },
+      {
+        "Type": "physic2D.Player",
+        "Properties": {
+          "changeSceneDelayTime": 0.1,
+          "gravity": 700.0,
+          "maxRunSpeed": 60.0,
+          "maxFallSpeed": -90.0,
+          "wallSlideMul": 0.2,
+          "runDecel": 300.0,
+          "runAccel": 500.0,
+          "airMul": 0.65,
+          "coyoteTime": 0.1,
+          "jumpBufferTime": 0.1,
+          "varJumpTime": 0.2,
+          "jumpSpeed": 60.0,
+          "jumpHBoost": 10.0,
+          "wallJumpHSpeed": 60.0,
+          "wallJumpForceTime": 0.15,
+          "dashSpeed": 120.0,
+          "dashDiagSpeed": 84.85281,
+          "dashTime": 0.15,
+          "dashCoolDown": 0.15,
+          "defaultDashNum": 1,
+          "wallJumpCheckDistance": 3,
+          "dashCornerCorrection": 2,
+          "upwardCornerCorrection": 2,
+          "velocity": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "moveX": 0,
+          "moveY": 0,
+          "forceMoveX": 0,
+          "dashDir": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "dashCoolDownTimer": 0.0,
+          "dashEffectTimer": 0.0,
+          "dashCount": 0,
+          "coyoteTimer": 0.0,
+          "jumpBufferTimer": 0.0,
+          "forceMoveXTimer": 0.0,
+          "varJumpTimer": 0.0,
+          "varJumpSpeed": 0.0,
+          "changeSceneDelayTimer": 0.0,
+          "isDead": false,
+          "onGound": false,
+          "flipX": false,
+          "wallSpeedRetainTimer": 0.0,
+          "remainder": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "uid": 104
+        }
+      },
+      {
+        "Type": "physic2D.HitBox",
+        "Properties": {
+          "topOffset": 4.0,
+          "bottomOffset": -4.0,
+          "leftOffset": -4.0,
+          "rightOffset": 4.0,
+          "topPos": 56.0,
+          "bottomPos": 48.0,
+          "leftPos": 56.0,
+          "rightPos": 64.0,
+          "position": {
+            "x": 60.0,
+            "y": 52.0
+          },
+          "uid": 105
+        }
+      },
+      {
+        "Type": "components.StateMachine",
+        "Properties": {
+          "stateTransfers": [
+            [
+              {
+                "state": "Jump",
+                "trigger": "startDashing"
+              },
+              "Dash"
+            ],
+            [
+              {
+                "state": "Lookdown",
+                "trigger": "startRunning"
+              },
+              "Run"
+            ],
+            [
+              {
+                "state": "Lookdown",
+                "trigger": "startDashing"
+              },
+              "Dash"
+            ],
+            [
+              {
+                "state": "Dash",
+                "trigger": "startSlide"
+              },
+              "WallSlide"
+            ],
+            [
+              {
+                "state": "Idle",
+                "trigger": "startLookdown"
+              },
+              "Lookdown"
+            ],
+            [
+              {
+                "state": "WallSlide",
+                "trigger": "backToIdle"
+              },
+              "Idle"
+            ],
+            [
+              {
+                "state": "Lookdown",
+                "trigger": "startJumping"
+              },
+              "Jump"
+            ],
+            [
+              {
+                "state": "Run",
+                "trigger": "startSlide"
+              },
+              "WallSlide"
+            ],
+            [
+              {
+                "state": "Jump",
+                "trigger": "backToIdle"
+              },
+              "Idle"
+            ],
+            [
+              {
+                "state": "Idle",
+                "trigger": "startRunning"
+              },
+              "Run"
+            ],
+            [
+              {
+                "state": "Lookup",
+                "trigger": "startRunning"
+              },
+              "Run"
+            ],
+            [
+              {
+                "state": "WallSlide",
+                "trigger": "startJumping"
+              },
+              "Jump"
+            ],
+            [
+              {
+                "state": "Dash",
+                "trigger": "startJumping"
+              },
+              "Jump"
+            ],
+            [
+              {
+                "state": "Dash",
+                "trigger": "backToIdle"
+              },
+              "Idle"
+            ],
+            [
+              {
+                "state": "Run",
+                "trigger": "startDashing"
+              },
+              "Dash"
+            ],
+            [
+              {
+                "state": "Lookup",
+                "trigger": "backToIdle"
+              },
+              "Idle"
+            ],
+            [
+              {
+                "state": "Idle",
+                "trigger": "startJumping"
+              },
+              "Jump"
+            ],
+            [
+              {
+                "state": "Lookup",
+                "trigger": "startJumping"
+              },
+              "Jump"
+            ],
+            [
+              {
+                "state": "Idle",
+                "trigger": "startDashing"
+              },
+              "Dash"
+            ],
+            [
+              {
+                "state": "Lookdown",
+                "trigger": "backToIdle"
+              },
+              "Idle"
+            ],
+            [
+              {
+                "state": "Idle",
+                "trigger": "startLookup"
+              },
+              "Lookup"
+            ],
+            [
+              {
+                "state": "WallSlide",
+                "trigger": "startDashing"
+              },
+              "Dash"
+            ],
+            [
+              {
+                "state": "Jump",
+                "trigger": "startSlide"
+              },
+              "WallSlide"
+            ],
+            [
+              {
+                "state": "Run",
+                "trigger": "backToIdle"
+              },
+              "Idle"
+            ],
+            [
+              {
+                "state": "Run",
+                "trigger": "startJumping"
+              },
+              "Jump"
+            ],
+            [
+              {
+                "state": "Lookup",
+                "trigger": "startDashing"
+              },
+              "Dash"
+            ]
+          ],
+          "states": [
+            {
+              "title": "Idle",
+              "animationFrames": [
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.1,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.1,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.0,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.0,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                }
+              ],
+              "doesLoop": false
+            },
+            {
+              "title": "Run",
+              "animationFrames": [
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.1,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.1,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.0,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.0,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                },
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.2,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.2,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.1,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.1,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                },
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.3,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.3,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.2,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.2,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                },
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.4,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.4,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.3,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.3,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                }
+              ],
+              "doesLoop": true
+            },
+            {
+              "title": "Jump",
+              "animationFrames": [
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.3,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.3,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.2,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.2,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                }
+              ],
+              "doesLoop": false
+            },
+            {
+              "title": "Lookdown",
+              "animationFrames": [
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.6,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.6,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.5,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.5,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                }
+              ],
+              "doesLoop": false
+            },
+            {
+              "title": "Lookup",
+              "animationFrames": [
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.7,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.7,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.6,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.6,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                }
+              ],
+              "doesLoop": false
+            },
+            {
+              "title": "WallSlide",
+              "animationFrames": [
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.5,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.5,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.4,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.4,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                }
+              ],
+              "doesLoop": false
+            },
+            {
+              "title": "Dash",
+              "animationFrames": [
+                {
+                  "sprite": {
+                    "width": 8.0,
+                    "height": 8.0,
+                    "texture": {
+                      "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+                      "width": 80,
+                      "height": 104
+                    },
+                    "texCoords": [
+                      {
+                        "x": 0.2,
+                        "y": 1.0
+                      },
+                      {
+                        "x": 0.2,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.1,
+                        "y": 0.9230769
+                      },
+                      {
+                        "x": 0.1,
+                        "y": 1.0
+                      }
+                    ]
+                  },
+                  "frameTime": 0.15
+                }
+              ],
+              "doesLoop": false
+            }
+          ],
+          "defaultStateTitle": "Idle",
+          "uid": 106
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 275,
+    "name": "Bone",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 100.0,
+            "y": 52.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": 0,
+          "uid": 107
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/Hero animate and object fix.png",
+              "width": 80,
+              "height": 104
+            },
+            "texCoords": [
+              {
+                "x": 0.6,
+                "y": 0.07692308
+              },
+              {
+                "x": 0.6,
+                "y": 0.0
+              },
+              {
+                "x": 0.5,
+                "y": 0.0
+              },
+              {
+                "x": 0.5,
+                "y": 0.07692308
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 108
+        }
+      },
+      {
+        "Type": "physic2D.Bone",
+        "Properties": {
+          "isActive": true,
+          "remainder": {
+            "x": 0.0,
+            "y": 0.0
+          },
+          "uid": 109
+        }
+      },
+      {
+        "Type": "physic2D.HitBox",
+        "Properties": {
+          "topOffset": 4.0,
+          "bottomOffset": -4.0,
+          "leftOffset": -4.0,
+          "rightOffset": 4.0,
+          "topPos": 56.0,
+          "bottomPos": 48.0,
+          "leftPos": 96.0,
+          "rightPos": 104.0,
+          "position": {
+            "x": 100.0,
+            "y": 52.0
+          },
+          "uid": 110
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 276,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 28.0,
+            "y": 52.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 111
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.61538464,
+                "y": 0.4
+              },
+              {
+                "x": 0.61538464,
+                "y": 0.3
+              },
+              {
+                "x": 0.53846157,
+                "y": 0.3
+              },
+              {
+                "x": 0.53846157,
+                "y": 0.4
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 112
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  },
+  {
+    "uid": 277,
+    "name": "Sprite_Object_Gen",
+    "components": [
+      {
+        "Type": "components.Transform",
+        "Properties": {
+          "position": {
+            "x": 132.0,
+            "y": 52.0
+          },
+          "scale": {
+            "x": 8.0,
+            "y": 8.0
+          },
+          "rotation": 0.0,
+          "zIndex": -1,
+          "uid": 113
+        }
+      },
+      {
+        "Type": "components.SpriteRenderer",
+        "Properties": {
+          "color": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0,
+            "w": 1.0
+          },
+          "sprite": {
+            "width": 8.0,
+            "height": 8.0,
+            "texture": {
+              "filepath": "assets/DoGhost- Asset Pack/DoGhost-SUMMER fix.png",
+              "width": 104,
+              "height": 80
+            },
+            "texCoords": [
+              {
+                "x": 0.6923077,
+                "y": 0.4
+              },
+              {
+                "x": 0.6923077,
+                "y": 0.3
+              },
+              {
+                "x": 0.61538464,
+                "y": 0.3
+              },
+              {
+                "x": 0.61538464,
+                "y": 0.4
+              }
+            ]
+          },
+          "flipX": false,
+          "flipY": false,
+          "uid": 114
+        }
+      }
+    ],
+    "doSerialization": true,
+    "pickable": true,
+    "isDead": false
+  }
+]
